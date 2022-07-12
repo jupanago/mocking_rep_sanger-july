@@ -1,0 +1,14 @@
+---
+title: "Mocking_file_bracnh_RStudio"
+author: "JP"
+date: '2022-07-12'
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## JP TEST
+
+Hello world of branches!
